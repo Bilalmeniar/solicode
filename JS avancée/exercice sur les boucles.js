@@ -16,5 +16,5 @@ for (let nombre = 1; nombre <= 20; nombre++) {
   }
   
   console.log("nombre de paires: " +compteur);
-  console.log("somme de paires; " +somme2);
+  console.log("somme de paires: " +somme2);
 
