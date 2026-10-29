@@ -5,7 +5,7 @@ for (let i = 0; i <= mots.length - 1 ; i++){
         motslongs++;
     }
 }
-console.log(motslongs)
+console.log(motslongs);
 
 let nombres = [4, 7, 2, 9, 5, 9];
 let sommepairs = 0;
